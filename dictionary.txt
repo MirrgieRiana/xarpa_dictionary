@@ -34,3 +34,14 @@ soka
   意味が不規則になる
   空白やlが消える
   統語的な表現と衝突できる
+
+chima 生物
+sima 機械
+huma 人間
+heuma 犬
+faima プログラム
+gerda 石
+terma 技、技術
+termengerda tegerda 金属
+thima 時間
+knimo 遊ぶ
