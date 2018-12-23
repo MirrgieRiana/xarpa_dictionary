@@ -68,15 +68,48 @@ tanka 家、小屋
 kunofa 施設、建物
 parima 街、都市
 riona 資源、燃料
-paira 火
-yeura 炎
-yeuro 焼く、炙る
+paira 火　物体の燃焼によって生じる発光体
+yeura 炎　加工などのために制御された火
+yeuro 焼く、炙る　物体の表面や内部に対して直接または高温の個体を経由して高熱を与えること　人物Bが物体Zを焼く
 kumo 見る、見える
 sono 聞く、聞こえる
 haro 書く
 rumo 読む
 hako 見せる
 harko 移動する、行く、来る
+humentegerda hutegerda 鉄
+kane 黄色
+kanentegerda kategerda 金
+sinkentegerda 銅
+haitra 水　液体のH2O、水分の摂取のために飲むことができる透明で味のない液体
+hutro 公転する、巡る
+xtromo 流れる、流す
+xtromio 流れる　物体Bが液体Mの中を流れる
+xtromeo 流す　人物Bが物体Zを液体Mの中に流す　人物Bが液体Zを流す
+yoriyo 言う、話す
+yora 本、文書　何らかの言語に従った情報を伝えるための表現が書かれたもの
+kjura 魚類
+-ika 高度なもの、学問
+numika 数学
+raimo 自転する、回転する、回る
+zento 企画する、計画する、目論む
+fina 空気、風
+na 無、無いもの、真空、空　何かが存在してもおかしくない空間に何もないこと
+kraima 部屋
+sinta 神、霊　力学的法則を超越する存在
+winta 実体を持たないsinta
+haima 妖精
+paneta 貯蔵庫
+panete 多くの、大量の
+paneto 貯蔵する
+paneteima 量
+mire 最高の、最上級の
+reana 代表
+reano 代表する
+
+
+
+
 
 
 
