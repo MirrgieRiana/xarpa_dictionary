@@ -44,6 +44,10 @@ gerda 石
 terma 技、技術
 termengerda tegerda 金属
 thima 時間
+thimo 経過する
+  時間が勝手に過ぎる
+  時間を消費する
+  時間を無駄にする
 knimo 遊ぶ
 tairo 使う
 kairo 作る
@@ -51,3 +55,22 @@ taina 手、腕
 daina 足
 knavo 知っている
 knaina 頭脳
+knaro 学ぶ、勉強する
+numa 数、数値
+tra 性質、プロパティー
+trenta 値
+troima 関係
+mina 組織
+knavobeza 情報、データ、知識
+muska 音楽
+cera 武器、剣
+tanka 家、小屋
+kunofa 施設、建物
+parima 街、都市
+
+
+
+
+
+
+
