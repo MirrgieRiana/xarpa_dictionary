@@ -67,6 +67,18 @@ cera 武器、剣
 tanka 家、小屋
 kunofa 施設、建物
 parima 街、都市
+riona 資源、燃料
+paira 火
+yeura 炎
+yeuro 焼く、炙る
+kumo 見る、見える
+sono 聞く、聞こえる
+haro 書く
+rumo 読む
+hako 見せる
+harko 移動する、行く、来る
+
+
 
 
 
