@@ -188,8 +188,94 @@ yora 本、文書　何らかの言語に従った情報を伝えるための表
       接尾辞がくっついて特有の意味を持ったもの
       接尾辞の間のlが消える
 
+■数の表記（外来扱い）
 
+数字接頭辞
+  zeri
+  mi
+  bi
+  tri
+  kuadri
+  kuinti
+  seksti
+  septi
+  yokti
+  noni
 
+数字列
+  数字接頭辞を繋げると10進整数が作れる
+    trikuadrizerikuinti 3405
+    bibi 22
+
+数詞
+  数字列の後にnaを付ける
+    trikuadrizerikuintina 3405
+    zerina 0
+    mina 1
+    bina 2
+    trina 3
+    kuadrina 4
+    kuintina 5
+    sekstina 6
+    septina 7
+    yoktina 8
+    nonina 9
+    mizerina 10
+    mimina 11
+    mibina 12
+    mitrina 13
+    mikuadrina 14
+    mikuintina 15
+    misekstina 16
+    miseptina 17
+    miyoktina 18
+    minonina 19
+    bizerina 20
+    bimina 21
+    bibina 22
+    trizerina 30
+    kuadrizerina 40
+    kuintizerina 50
+    sekstizerina 60
+    septizerina 70
+    yoktizerina 80
+    nonizerina 90
+    noninonina 99
+    mizerizerina 100
+    mine triona 1,000
+    mine trione mina 1,001
+    mine trione mimimina 1,111
+    
+桁指示詞
+  数字列の後にonaを付ける
+    trikuadrizerikuintiona 10^3405
+    bibiona 10^22
+    triona 1000
+    triotriona 1,000,000,000
+  数字列＋oを先頭に付けると右側を左側で乗じる
+    biotriona = (10^3)^2
+    bitiona = 10^23
+
+数の右に0が沢山つく表現
+  仮数部と指数部を並べて形容詞形で連結する
+  bitrikuintine biotriona 235,000,000
+
+複数のパートに分かれる数
+  パートごとに並べて形容詞形で連結
+  bitrikuintine biotrione septizerisekstine trione kuadrinonina 235,706,049
+
+例
+  nonitrikuintina 935
+  nonitrikuintiotriona 10^(3*935)
+  triotriona 10^(3*3)
+  biona 1,00
+  triona 1,000
+  kuadriona 1,0000
+  kuintiona 1,00000
+  sextiriona 1,000000
+  biotriona 1,000,000
+  bitrikuintine biotriona 235,000,000
+  bitrikuintine biotione septizerisekstine trione kuadrinonina 235,706,049
 
 
 
