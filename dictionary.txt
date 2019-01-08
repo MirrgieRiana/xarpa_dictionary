@@ -107,6 +107,14 @@ reano 代表する
 kretro 育つ
 strita 話、逸話、伝説、伝承、物語、エピソード
 humenstrita 噂
+thima 時間
+chima 生物
+chaima 植物
+chuma 動物
+huma 人間
+sinta 神、霊、妖怪、お化け
+haima 妖精、人魂、ウィスプ
+
 
 yoriyo 言う、言及する、述べる、書いてある、伝える、記載されている、示す、話す、喋る、発言する
   情報を文字や音声によって外部に伝える
