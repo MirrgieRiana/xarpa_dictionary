@@ -104,6 +104,9 @@ paneteima 量
 mire 最高の、最上級の
 reana 代表
 reano 代表する
+kretro 育つ
+strita 話、逸話、伝説、伝承、物語、エピソード
+humenstrita 噂
 
 yoriyo 言う、言及する、述べる、書いてある、伝える、記載されている、示す、話す、喋る、発言する
   情報を文字や音声によって外部に伝える
