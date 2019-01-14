@@ -289,6 +289,28 @@ yora 本、文書　何らかの言語に従った情報を伝えるための表
   bitrikuintine biotione septizerisekstine trione kuadrinonina 235,706,049
 
 
+属性素
+  属性詞を構成する最小の構造
+  分子のようなもの
+  sinkentegerda sitegerda 1個の属性詞　sink term gerda 3個の属性素
+
+-en-　接合辞
+  属性素を結合する形態素
+
+品詞接辞
+  属性詞に結合して品詞を与える
+
+辞書粒度
+  lを含まない属性詞 sinkentegerda kartoleto
+    品詞ごとに項目を作る
+    lを含まない属性詞は派生語なので載る
+    lを含む属性詞は完全に規則的なので載らない
+  自動詞／他動詞
+    完全に規則的なので載らない
+
+
+
+
 
 
 
