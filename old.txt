@@ -1,0 +1,810 @@
+
+-ik [接尾]～を扱った高度な物・～の機構について考えること　　「lunika」こよみ
+-ep ～だろう[接尾][助]
+feln-　～でない　　tern-　全くの～だ
+-en 否定の接尾辞
+-o'l　= -o il
+-ij　-a ～されるもの　-o ～が行っていること
+-oij　-a ～するもの・-er　-o ～に対して行うこと
+*m　～も（ilm lmiのように後置する）
+-os　-o ～している
+-ous　-o ～している
+fus-　宇宙に関する接頭辞
+-et<o>　-o ～した　-e ～した
+-ochi chso　～するようになる
+-eij　-o 状態になる
+-oiz　-o ～しろ
+-ost　-o ～し始める
+-ont　-o ～し終わる
+-ouz　-o ～しましょう
+
+lecred<i>　-i すなわち（導かれることが当然のことであるというニュアンスを加える）
+nel　niet　-i 〔soeniと同一〕否定・～ではない
+vent<a>　-a きっかけ　ee-i ～をすると～　　「sm il 1 eeventi knawo il 10.」1を聞くと10を知る
+thour　-i とりあえず
+v　-i において・について・のときに
+kuent　-i しっかりと・確かに
+llag　-a 隣　-e 隣の　-i 隣に・隣で　-o 隣接する
+felsh　-i これまでに～したことがある
+r　-i 主格
+l　-i 対格
+n　-i 与格。～に。
+s　-i 理由。～のために。
+v　-i 主題・限定・前提・条件。～において。
+g　-i 〔自動詞の主格と他動詞の対格を表す〕絶対格
+k　-i 奪格。～から。
+
+yorij<o>　-o 言う　-a 発言
+pach<o>　-o 好む　　jik<o>　-o 愛する
+kart　-o 食べる　-a 食べ物　　herion<a>　-a食糧　　mucimmel<o>　-o 摂取する
+cretr 一般的に物を組み立てること・メイキング　-o つくる　-oim ツール
+gen 決められた過程をへて製造する　-o 製造する　-a 工場
+gariant 考え出す・創造する　-o 創造する
+reig　-o 定義する・登録する・宣言する　　reigeyorij<o>　-o 宣言する　　complillonemt　-o 決定する
+dduzent<o>　-o 悪だくみをする
+magi<o>　-o 攻撃する・迫害する・痛めつける・殺す　　
+pad<o>　-o 及ぼす
+parrmagi<o>　-o 駆除する、駆逐する
+auk<o>　-o である（コピュラ）≪V6.0.0～ 非推奨≫
+mic<o> -o 建築する　-a 建築（技術）
+rian　-o 統治する・代表する（無機的）　-a 統治者、代表者・既定項目　　rism　-a 組織の支配者・代表者　-o 組織を支配する・代表する
+hait<o> 寝る・休む・止まる　-o 休む　　chhait<o> 睡眠をとる　-o 眠る　　shhait<o> 待機　-o 待機する
+katif<o> 修飾　-o 修飾する　-ija 修飾子・形容詞
+njum<o> 治癒　-o 怪我を治療する・治す　-a 治療　　njym<o> 修繕　-o 修理する・修繕する・直す　-a 修理
+rar<o> 努力　-o 努力する
+halk<o>　-o （経路を一歩一歩踏みしめて）移動する、行く、来る
+shell<o>　-o する　　「thirr shell il kjurennoura/.」私は魚釣りをする≒「thirr kjura eli nouro/.」私は魚を釣る
+hois　-o 大きく揺れる　-ocha 地震
+pz<o>　-o 死ぬ（何度でもよみがえる）　　dz<o>　-o 死ぬ（二度と動かない）　　pyiz<o>　-o くたばる（痛めつけられて倒れる）
+kit<o>　-o 切る・断ち切る（連続したものを切り離す）　-oim はさみ
+kor　-o 再現する
+juct<o>　-o 所有する・持つ・命令する
+meiz<o>　-o 練習する・訓練する
+vras<o>　-o 挿入する・追加する・足す・増加する
+juct<o>　-o 持つ・含む　　jukt<o>　-o 命令する
+koir<o> 補う・助ける・補充する（不足した部分を埋めてもらう、必須アミノ酸など）　-i ～のために　　voir<o> 求める
+maz<o>　-o 雨が降る　-a 雨　-e 雨が降っている（天気「wateim」の値）
+traw 明らかにする、示す
+voir<o>　-o 求める・必要とする・要求する
+jeqres<o>　-o(il jalljensola, ir null) 配列の全ての要素が等しい　-o(il A, ir B) BはAに等しい
+treim　-o 似ている　　-eim 相関度
+bin<o>　-o 出る・脱出する
+telled<a>　-o 入力する
+temmel<a>　-o 出力を見る
+rechs<o>　-o 置換する
+reen<o>　-o 訊く・たずねる
+traw　-o 表示する・視覚的に見せる　　trav　-o 提示する・表す・見せる・出力する・出す
+let<o>　-o 変更する
+hais<o>　-o ～と呼ばれている（＝kairorel<o>）　　kair<o>　-o ～と呼ぶ
+guir<o>　-o 答える　　「thia ri pachen il kee thia ri guiroiyoen ha.」答えられないなんてそんなのは嫌だ
+fillim （特に記憶の）共有・データの同期　-a 共有　-o 共有する
+kut　-o （避雷針のように）吸収する・受け取る
+psy　-o 撫でる
+rm<o>　-o 読む　　hr<o>　-o 書く　　hk<o>　-o 表示する　　km<o>　-o 見る　　hs<o>　-o 音を出す　　sm<o>　-o 音を聞く
+hhrp　-o 着陸
+qqlltybar　-o 
+tirir　-o 祝う・信仰する・祈る
+chiv　-o 独立する・成り立つ
+qis<o>　-o 変化する　　parqis<o>　-o 成長する
+chmmel<o>　-o （植物などの）採取・採集
+g　-o 同値である・交換可能である（ri節とli節の語を入れ替えても成り立つ）　　k　-o ～は～といえる　　「thia ri ko jesqenvvuma.」私は学生といえる。
+qis　-o 変える
+moir　-o 改良する・よりよくする　-a 改善点・追加分
+hysh　-o 形作る・一般化する・簡単化する
+trrod　-o 提供する
+hylint　-o 実装する　-a 実装
+chs　-o （l引数がない場合）変わる・（l引数がある場合）変える
+qvil　-o 落雷させる・雷で撃つ
+hart　-o 解析する・調べる・探す
+lled　-o 置く・設置する
+mmel　-o 拾う・除外する・取り除く・取る
+juctorel　-o 所属する・入っている
+kar　-o 実行する・呼び出す・関数を叩く
+qer　-o 壊す・破壊する・攻撃する・無くす・削る・取り除く・削除する
+mmelled　-o 持ってくる
+jekres　-o 代入する・置換する
+qartyb　-o 準拠する・従う・倣う
+mihr　-o 書き込み・保存・セーブ　　mirm　-o 読み込み・読み取り・ロード　　mihrm　-o 読み書きする
+tedred　-o in - ～にくっつく・結合・統合・膠着　-o il - ～をくっつける
+nnel　-o 消える・無くなる・消滅する
+stvij　-o 吐き出す・巻き散らかす
+vvron<o>　-o 代行する　-i 代わりに　e-ue ～の代わりの～
+kretr　-o 〔創造的な〕変更する・調整する・編集する
+chs　-o 〔事務的な〕変更する・調整する・編集する
+kym　-o 作る
+hhjul　-o 解決する
+hiemt　-o 移動させる・移す・持っていく
+format　-o 型枠にはめる・正規化する
+prat　-o 出現する・現れる・生まれる
+tr　-o 設定する
+huk　-o 繋がる・接続する
+win　-o 飛ぶ　-a 風・空気
+redefij　-o （公約などを）更新する・再定義する
+rad　-o 準備する
+reit　-o 開く・見えるようになる・現れる
+nazt　-o 閉じる・見えなくなる・隠れる
+lym　-o 〔全体をグラフィカルに〕描画する・レンダー　-a 〔単調ではない〕絵画・テクスチャ
+roogik　-o 翻訳する
+hhjud　-o 依存する
+lim　-o 〔個々のパーツを〕描画する
+kkusj　-o 取り付く・くっつく・抱きしめる
+nnjulij　-o アップデート・更新
+kard　-o 輸送する・運搬する・持っていく・運ぶ
+hukarij　-o 対処する・チェック・よくする・改良する・処理する
+mikym　-o 変換・変形・交代・加工・変化・変態
+shrrug　-o 摩耗する・疲労する・消耗する
+wybr　-o 触る・触れる・話しかける
+format　-o 等価交換・等価変形
+diesp　-o 抱く・いだく・抱き着く
+lot　-o 冒険する・探索する・探検する・捜索する・追及する
+wiqj　-o 確認する
+hop　-o 投げる・投擲する・放り投げる
+hal　-o 受ける
+mail　-o 利用する・使用する・使う
+sill　-a （態度・体勢が）変化・変異　-o （態度・体勢が）変わる
+shem　-o 望む
+pad　-o bにlをさせる・強いる
+herb　-o 育つ
+hukard　-o 乗る
+trav　-o 表示する・示す・出す・書く
+qir　-o 簡潔化する・簡単化する
+syj　-o （自分に近づく物体から）逃げる・追われる・逃走する・回避する・逃れる
+hyj　-o （自分から遠ざかる物体を）追う・追従する
+gyr　-o 侵食する・浸食する・蝕む
+nner　-o キャンセルする・却下する・否定する・妨害する・棄却する
+calij　-o 警告する・注意する・警戒する・危ないと思う
+rept　-o 繰り返す・連続する・同じものを並べる・並列する
+hisp　-o 問題が起こる・遭遇する・例外が発生する
+hyd　-o 命令する・指図する・指示する・指定する・誘導する
+qis　-o （別の値に）変化する　　chs　-o （根本的に別のものに）変化する
+rub　-o （全身を広げて地面に覆いかぶさるようにして）飛び込む・ダイブ
+harveij　-o 行く（この場所から）
+joimeij　-o 来る（この場所に）
+knhart　-o 研究する
+pillrin　-o 拡散する・分散する・はじけ飛ぶ・分裂する
+toripl　-o 想像する・思う・考える
+tian　-o 読み込む・積み込む・頭に入れる・load
+konprt　-o 決定する・決める・求める
+trop　-o 分離する・離脱する
+minos　-o 減少する・減る
+vrint　-o 足りる・満足する
+vrong　-o 超える・超過する・余る
+mermul　-o （事前に公開された情報に実態が）合わせる・対応する・準拠する・更新する
+kuer　-o 突く・刺す
+kuent　-o （細長い物を地面に）立てる・建てる・たてる
+qqur　-o 吊るす
+tek　-o 実験する
+jural　-o 測る・はかる・測定する・測量する
+dais　-o 吸引する・吸う・吸い込む
+soem　-o ～したい
+fut　-o 設置する
+lalis　-o 操る
+daznos　-o 埋める・満たす
+
+
+pilliti　-a 外　-o 出る　　「pilitioem yarr」
+caym<a>　-a 猫、動物
+seler<a>　-a カラス、鳥（翼があり広げて飛べる鳥）
+sol<a> もの（生物も含む最も範囲の広い名詞、Javaで言うObjectクラスのようなもの）　-a もの
+jeul<a> 火・炎（人の手で制御された）　-a 火　-o 焼く　　jagn 溶岩　-a 溶岩　-o 炙る・熔かす　　「thirr Pan'aeli jeulocha evi sisinenjor/.」私はパンを焼くのが日課だ
+ts 水域　-a 海・水域・湖　-o （大地を）洗い流す　-e 海の　-ocha 津波
+tsvir<a> 雷・電子　-a 雷・電子技術　-o 落雷する・放電する
+tr　-a パラメータ・値・バリュー（固定値の）　-oim 関係・相関　-eim 値（浮動値の）
+herg　-a 治安の行き届いていない無法地帯
+math<a> 数学・マスマティックス
+chlek(=chek)　-a 友達　-e 仲のいい　　「juctocha iel chleka'rr ye humenhumocha eli chs iel kieme/.」友の存在はあなたの人生を優雅にする
+jorim<a>　-a ページ
+kin<a>　-a 金銭・お金
+kureim　-a （物体の属性の一つとして）色　　kur　-a 色（某か色が付いているという事＝透明ではない・何も塗られていないのではなくカラフル）
+m これ　-a これ・それ　-ia （目の前の）これ　-e この　-ie これの
+gorg 氷　-a 氷　-o 凍結する　　garg 石　-a 石ころ　　korg 罰を与える　-a 刑罰　　-o 拘置する　　karg 刑罰　-a 刑罰　-o 刑罰を与える
+hiw<a> 道　-a 道路・道（踏みしめて歩く通路）
+kkiz<a>　-a 団体（主に子供で構成される）　-o 団結する　-os 団結している　　hhir<a>　-a 単体（一匹狼）　-o 独立する　-os 独立している
+lun<a>　-a 一か月、つき　　sin<a>　-a 日にち
+skar [正]（文法上の）性別　-a 性別　-e 性的な　-ij 母音　　scar [俗]（生物・人間の）性別　-a 性別　-e 性的な・えろい　-ij 売春婦
+plarim<a> 都市（高層ビルが立ち並ぶ風景）　　qunoph<a> 施設・建物・舎（ひとまとまりでブロック状の建築物）　　tank<a> 家・部屋（一部屋の建もの・個人で利用する住居）
+shald　-a 装備　-o 装備する
+sin<a> 一日・日にち　-a 日にち　　[sin複数形]sizin<a> 日々・生活　-a 日々
+hatercraima 風呂（綺麗な水が張ってある部屋）
+liffelprazon<a> 標準規格
+chim　-a 時・時間（ある程度幅のある）　-o 時が過ぎる　　chimim　-a 瞬間・時　　「chimoete chimimarr refi chtromonumne」一度過ぎた時は戻らない
+prazon<a> 類⇒jor　-a 規約・規格・リファレンス　　「aprazona'rr variante herta edi liffele」この規約は世界標準だ
+kur 色　-a 色　-o 発色する・色を塗る　-os 色をしている　-e ～色の
+tsvirqunoph<a> 電子機器工場
+toriploneicha 思想
+neich 心　-a 心・感情　-o 感じる　　「neicho il finim/.」風を感じる
+fin 風　-a 空気・大気　-o 風が吹く　-im （局所的な）風
+vranjietw<a>　-a 冗長構文（重複した表現：「召し上がる＋～になる⇒お召し上がりになる」の「～なる」など）
+hum<a>　-a 人間　　vvum<a>　-a 者・人（個体が識別可能な者）　　hym<a>　-a 人工知能　　sim<a>　-a 機械
+nachivenkart　-a 郷土料理
+hoot　-a 樹木・木材
+terionqunoph<a>　-a 発電施設　　
+kjur　-a （えらと尾びれのある）魚・魚類
+min　-a 省　-o 管理する　-oim 国家機密情報
+sok　-a （食用）オイル・バター
+hys　-a 飲み物
+harines　-a 冗長・冗談 [類]⇒njiet　-o 見捨てる・切り捨てる　--di それはそうとして・そんなことより
+y　-a （誰かわからない）あなた　-ia （誰だかわかっている）あなた
+nequim 夜　-a 夜　-i 夜に　-e 夜の
+quim 昼　-a 昼　-i 昼に　-e 昼の
+roim 土地（地面があり、家が建築可能な空間）　-a 土地　　micim 建材（micoim 大工道具）
+hasn -a 私
+kain -a 作法・方式・手腕
+jeulenseler<a>　-a 火の鳥　　jeuloreletenseler<a>　-a ヤキトリ
+hon 農業・農耕　-a 農業　-o 農業をする　-im 田畑　-a 田畑　-o 耕す
+jallj 複数・（直列で一次元的な）配列　-a リスト　-o 並べる・直列化する　-im 要素
+kachlenhiw　-a 一方通行道路
+chmill<a>　-a 森林（人気がなく混沌とした場所）　　shmill<a>　-a 廃墟・廃坑
+taf<a>　-a 問題　　tafij<o>　-o よろめく・うろたえる・困る
+ropr　-a 結果
+rurukenhiw　-a 通行止め　　kachlenhiw　-a 一方通行道路
+hater 綺麗・clean　-o 綺麗にする・汚れをふき取る　-a 綺麗な物／箇所　-e 綺麗な
+hirum ごみ　　felnhater よごれ　　wast ちり
+xl　-a 氷・冷気
+mill<a>　-a 過疎地域・郊外　-e ひとけのない
+bollt<a>　-a 小さな塊・チャンク
+phym<a>　-a プログラム　-o プログラミングをする(他)・プログラムを動かす()・プログラムが動く(自)　　pragm<a>　-a コンパイラへの作用子
+misk<a>　-a 音楽　　laim<a>　-a 美術
+ri<1>　-n<a> ８　-ne ８の
+solij<a>　-a 名前・名称（物質の象徴）
+kust　-a 長い年月（80～120年程度）　-im 年　　tis　-a 生活・一生（命がある）　　shnoj<a> 時　　shn<a> 分　　shnim<a> 秒
+vreim<a> 品詞　　vr　-a 構文　　vroim<a> 動詞　　vrij　-a 名詞　　nod　-a 副詞　　tafij<a> 形容詞　　dim　-a 代名詞（代詞）　　parmenvr　-a 冠詞　　vrpad<o>　-a 助動詞
+hyrem<a>　-a 要素
+tir　-a 意味　-o 意味する　-oim 説明
+ 　項目 　比重 　重さ 　階層・ランク 　試みる 　速度
+plollodga <未定義>
+hyw　-a 方法・方式（解決する手段）　　hiw　-a 道・手段（解決へ続く道）　　kain　-a 方法（手段を実行する手腕）・制作・組み立て・クラフト
+vir<a>　-a 電子
+harg　-a 引数
+hisp　-a 予期せぬ出来事・例外　-e 予期しない　-o （問題が）起こる　　-ij<o>　-a 驚き　-o 驚く・困惑する　-e 驚きの
+wat<a>　-a 天気・天候　-eim 天気
+<a>val<ee>　-ee ～かどうか（文を取りその文が正しいかどうかを論理値で返すようにする）　　「I know if it will rain tomorrow.」=「knawos val nesinagg mazo.」
+can 全体
+hotr 他
+tir 意味
+hyrem 要素、エレメント
+tiroim 説明
+kact<a>　-a 形・形式・form
+mint<e>　-a 完全な・全部の　　mist<e>　-a 半分の　　「minta de jallja」集合の全ての項目
+thvroim<a>　-a 自動詞　　func<a>　-a 他動詞
+harg<a>　-a 引数・目的語　　chsharg<a>　-a 補語
+null<a>　-a ない・無・未定義値
+met<a>　-a 回路
+kipt<a>　-a 系統・族・所属・種類
+teell<i>　-a 大部分の・ほとんどの
+njun<a>　-a 文章（段落で構成された一つながりの段落）　　knjum けがを治す
+magoj<a>　-a 争い・戦乱
+horm<a> まとまり（jalljensola：集合）　-a グループ　　「horm de roim」区画
+nair<a> 分類・種のまとまり（hormensola：まとまり）　-a 分類　-o 別ける・分割する（一つのまとまりを性質の違いによりいくつかのグループに分ける）
+val<a>　-a ta(true)/fa(false)の２値からなる論理値　　num<a>　-a 列挙型値
+cr<a>　-a 家・（部屋が複数ある個人用の建もの）　　tank 一部屋の建もの・部屋　　qunoph （直方体状の）施設
+vin<a>　-a 管理組織・生産組織　　phymenvina　-a 開発キット
+top<a>　-a 雑草、草
+nipt<a>　-a 例外
+nil<a>　-a 何もしないこと　-o 何もしない
+tamon　-a 魔法　-e 魔法の
+lellic　-a 電子
+solm　-a 攻撃
+hyrok　-a 病気
+lintemcal<a>　-a （生物や機械状でなくゼリー状に近い）モンスター・化け物
+cal<a>　-a モンスター・化け物・怪物・敵・危険
+kniptem　-a 定義（理由はないが、誰にも明らかであるか強制力のある規則）
+vr 構文要素　　vroj 文　　roog 単語　　roogim 文字　　roogik 言語
+rik<a>　-a 出力
+kir<a>　-a 入力
+horr　-a 溶岩
+criim<a>　-a 島
+hiert　-a 世界
+pll　-a 所業
+ferensol<a>　-a 卑金属
+chym<a>　-a 植物
+kolt<a>　-a 貴金属
+troj　-a 状態
+teguarg<a> -a 金属
+guarg<a>　-a 石
+kan<a>　-a 黄色　-o 光る・輝く
+kanteguarg<a>　-a 金
+nech　-a 再帰・1回転・一週まわって元に戻ること・周囲　-o 1回転する
+krac　-a 接触・言及・確認・挨拶・呼びかけ　-u こんにちは
+zym　-a 商業
+linz　-a 工業
+halkij<a>　-a 道
+qim<a>　-a 日の出　　neqim<a>　-a 日没
+sisk　-a 歴史
+gom　-a ごみ・ゴミ
+trag　-a ドラゴン・龍
+craim　-a 〔密閉された空間〕炉・部屋・作業場・洗い場
+fil　-a ファイル・項目
+lin　-a 行
+herkat　-a 足場・枠組み・雛形・スタブ
+hyshik　-a 構造物・システム・機構
+sym　-a 〔人や動植物や菌類を含み機械を除く〕生物・生命
+hylintij　-a インターフェース・要件
+gain　-a 〔物理的な〕出力
+kakt　-a 多肉植物
+tetr　-a 鉱石
+som　-a 素材
+juctij　-a コンテナ・格納・箱・倉庫
+hedr　-a 資源・リソース
+hycal　-a バグ・不具合
+paneteim　-a 量　　trenteim　-a 量
+releim　-a 確率
+hoxp　-a 耐久力・体力・持久力
+jeulcraim　-a 炉
+hallumin　-a 耐火壁
+myd　-a ～の方・～側　-eima 方角・方向
+serv　-a 表・管理
+talk　-a 1・一つ　-i ひとつに
+kain　-eim 作り方・レシピ・作成方法・作成手段
+qert　-a 武器・刃物
+kutij　-a 針・棒
+huteguarg　-a 鉄
+tilm　-a 狐
+heum　-a 犬
+kipteim　-a 型
+rim　-a 面
+hukrac　-a 関わり・やり取り・取引・交わり
+nour　-a 狩猟・狩り・釣り
+radik　-a 土台・背景・ベース
+refil　-a 参照・連絡・命綱
+chhatr　-a 流体・勝手に流れるもの　-o （勝手に）流れる・動く・回る　-e 流体の
+shhatr　-a 周囲・隣の　-o 隣接する　-i 隣接する・周囲の・近い
+radoch　-a 初期化
+karij　-a 処理
+trf　-a 記号・シンボル・暗号
+str　-a 文・文章・話・ストーリー・物語
+strim　-a 文字・記号・レター
+strimik　-a フォント・書体・書式
+rredin　-a 放射能汚染
+kagy　-a テンプレート・外枠・プロトタイプ・雛形
+tais　-eima 回数
+roogim　-eima 綴り
+risen　-a 規定・言語・プロトコル・法則・ルール
+-or　-a 資源・供給する物
+kazon　-a 村
+helm　-a 水素
+tror　-a 星・惑星
+hutror　-a 地球　　helmetror　-a 太陽
+lond　-a 右
+laris　-a 左
+win　-a 上
+dros　-a 下
+ferit　-a 手前
+nerit　-a 後ろ
+parn　-a 先頭
+zoom　-a 末尾
+humal　-a 男性　humel　-a 女性
+bical　-a 虫
+sel　-a 人格・感情・意識
+hysel　-a アカウント・ユーザー・プリセット
+husel　-a 気分
+yorij　-a 参照・言及
+kartij　-a 食事
+ris　-a 米
+tervumes　-a 姉・お姉さん
+guosh　-a 親・親分
+quosh　-a 子・子分
+kkizim　-a 子供・赤ん坊
+hay　-a 神・神仏
+tereim　-a 大きさ
+kainim　-a 指
+xeisenj　-a 腰
+huft　-a 壺・器・皿
+trrodij　-a 戻り値・供給物
+cjym　-a 哺乳類・動物全般・獣
+njac　-a 猫という動物
+njym　-a 猫を含むペット全般・愛玩動物
+tsllin　-a 河川・小川
+tsint　-a 池・湖・沼
+tster　-a 海・海域・大海
+qerwin　-a 虚無
+nngpn　-a 革命
+loym　-a 死・狂気・猟奇・加害・破壊
+hurt　-a 肌・皮膚・皮
+sald　-a 〔身に着けるもの全般〕装備・衣装・衣服
+fald　-a 〔普段着〕服・衣装・衣服
+potat　-a バリエーション・多様性
+chol　-eima 位置・座標・場所・ポジション　-o を占有する・占める
+hyjon　-a 倍・N倍　-o $l倍になる・$lを$n倍にする
+mj　-a ～も（副詞を修飾する）　　「halko in amj Kjoto.　京都にも行く」
+simil　-a 添え字・ID・インデックス・番号
+halpt　-a 方向・向き・方角・角度　-eima 方向・向き・方角・角度
+ferm　-a 顔
+perm　-a 頭
+qeros　-a 無限
+n　-a ではない（副詞を修飾する）
+set　-a 〔リミット〕上限・下限・極限・限界
+shterenset　-eima 大きさの上限
+suir　-a 料理
+hed　-a 家
+kaseddur　-a つるはし
+shart　-a 布
+jor　-a 本・書籍・書類・書物・文書
+kour　-a 3か月・四半期・クール
+jorim　-a 紙
+juralxliffel　-a 単位
+grad　-a 庭
+nous　-a 容器・入れ物・空洞
+hub -a 雲
+
+
+sink<e>　-e 紅い　-a 赤　-o 紅くなる
+borg<e>　-e 黒い　-a 黒　-o 黒くなる
+thiem　-e 不毛な、意味のない
+nes　-e ない、0個の
+ter 程度の大きい様　-e すごい　-i とても・超　-ii とても　　v 比較的・いい意味ですごい　-ii　形容詞を就職して比較級を作る　-i すごく
+hytr　-e 短い
+hirum<e> ちり　-e 些細な　-a ちり　-o 見えなくなる　　wast<a>　-a （無視できない）ごみ　-e ゴミのような　-o 使えなくなる
+kachl　-e 一方通行の　　「ahiw'rr kachlensola/.」この道路は一方通行です。
+liffel<e> （定義的な）普通　-e 普通の・標準の　-a 基準
+lif<e>　-e 仮想の・想像上の
+nachiv　-e 国家の　-a 国家　-o 国を作る　-os<o> 国を形成している
+cenk<e> 密集　-e 密度の高い・密集した　-eim 密度　-a 密集　-o 集まる　-os 集まっている
+rin<e> ①時間の有り余った/類⇒foor　-a 時間的ゆとり　-e 時間的に余裕のある ②両腕を失った
+felnehytro 長い
+rund　-e 自由な　-a 自由
+ruruk　-e 移動不可能な
+nirm -e 痛い
+diem　-e 不気味な・怖い
+tyr 味が甘い　-e 甘い　-a 甘い物＝tyrensola　-eim 甘さ
+sis<a>　-e 速い　feln- 遅い　-eim 速さ
+rean<> 主の　　sean<> 副の
+shter　-e 複雑な
+2st<e>　-e 2個の
+ft<e>　-e 間接の　　ym<e>　-e 直接の
+hemr<e>　-e 賢い・頭のいい
+par　-e 良い　　daz　-e 悪い　　（自分にとって不都合かどうかで判断する）
+lint<e>　-e 小岩、土でできた小山
+trjoim　-e 似ている
+joim　-e 近い
+part　-e 孤立の〔群れになっていない様子〕
+rat　-e 片側の・半分の　-o 半分にする　-a 半分・半数　-i 半分に
+pan　-e 多い
+ron　-e 長い
+likr　-e 選ばれた・選りすぐりの
+haq　-e 全ての
+list　-e 雑多な
+jur　-e 妙な
+moiz　-e 正しい　-o 正しくなる・修正する　-ijo 正しいことをする
+nnjul　-e 新しい
+krom　-e 色々な・様々な・多様な・いくつかの
+njietw<a> njeq　-a 冗長・無駄・重複　-e 重複した・多重の・2重の
+nemoiz　-e 正しくない　　nemoizij　-e 例外　-ijo 正しくないことをする・非行する・間違う
+nutr　-e 肥えた　　felnnutr　-e 飢えた
+mik　-e 若い
+chirat　-e 順番な・正しい順序の　　nechirat　-e （効果・状態が）逆の
+trent　-e （可算）〔物体が〕多い・多くの
+panet　-e （非可算）〔流体・粉末・素材が〕多い・多くの
+kon　-e １、２個の・いくつかの
+krez　-e 宝石・結晶
+brrim　-e 少ない・少しの　-ii たったの
+dror　-e 下位の・劣る・未満の・及ばない
+mron　-e ～もまた・～も
+spesj　-e 速い・素早い・すばしっこい
+jekr　-e 等価な　-i 等価に
+deen　-e 前の
+geln　-e 固有な・他と異なる・特別な
+hanj　-e 全ての・どのような～も
+harv　-e 遠い　-eima 距離・長さ
+trans　-e 規定の・初期の
+qvir　-e 電力の
+tfc　-e 具体的な
+ffjul　-e 古い　-a 昔
+1n　-e ～番目の・序数　　1　-e ～個の
+row　-e 馴れ馴れしい
+nerow　-e 堅苦しい
+phiem　-e 愛らしい・かわいい
+planes　-e 静かな・落ち着いた・静粛な
+volt　-e 有効な・使える　-o 有効である
+bind　-e 別の・異なる・いままでと違う・新しい
+ps　-e 頻繁な・多くの　-eim 頻度
+pirk　-e 美しい
+kiem　-e 楽しい
+nekartiem　-e 空腹の
+ziem　-e 絶望の
+fil　-e 隔絶された、遠い、隔てられた
+eume　-e ～のなかの～
+gelvent　-e 盛大な
+kirin　-e 短い、直接、最短の
+shter　-e 大きい
+
+・接続詞（文注釈）
+
+k　-u 文を丁寧にする注釈
+
+t　-u ～のに。
+m　-u ～なのか。～なんだ。　感動文　独り言
+n　-u ～なのだろうか。　疑問文　問いかけ
+nj　-u ～なのですか？　回答を要求する疑問文
+
+【自動詞・他動詞】一部の動詞は-ioで自動詞、-oで他動詞になる　　「chtromo　流れる」「chtromio　流す」
+
+～接続詞～
+
+fina ri daznosouso il hubau. uuchiri mazouso.
+fina ri daznosouso il hubau chiru, mazouso.
+mazouso ichiree fina ri daznosouso il hubau.
+fina ri daznosouso il hubau eechiri mazouso.
+「空は雲で満ちている。そのため、雨が降っている。」
+
+なぜなら
+chir　-u 順接　だから、ゆえに、そのため、結果として、よって、なので
+nechir　-u 逆説　けれども、しかし、だが
+rept　-u 並列　また
+　-u 累加　さらに、そのうえ
+jekres　-u 説明　つまり、すなわち
+　-u 選択　または、もしくは
+　-u 転換　ところで、さて
+
+uujekr
+
+wina　空気
+nuela　エイリアン・異邦人
+hytra　水
+tsa　水域
+hoota　木・材木
+　オーラ
+cyma　獣・猫
+njaca　猫
+heuma　犬
+selera　鳥・カラス
+　脳・心・記憶・認識
+toripla　思い・思考
+siema　感情・心
+carta　食肉
+charta　野菜
+wydra　アンデッド
+kretra　クラフト
+
+guarga　氷
+
+
+
+fang　-a 肉
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+　答える
+　着く
+shtrom　禁じる
+　噛む
+　借りる
+　壊す
+jeul　焼く
+　買う
+　運ぶ
+chs　変える
+yorij　喋る
+　来る
+　泣く
+　切る
+　踊る
+pz dz　死ぬ
+s　する
+　飲む
+kart　食べる
+　入る
+　見つける
+　飛ぶ
+　忘れる
+lled　あげる
+　殴る
+knaw　知る
+　笑う
+　学ぶ
+pach　好む
+　聞く
+　住む
+km　見る
+　開ける
+　払う
+rm　読む
+　繰り返す
+chtrom　走る
+yorij　言う
+　売る
+lled　送る
+　歌う
+　座る
+chhait　寝る
+yorij　話す
+　立つ
+toriplo　考える
+　歩く
+hr　書く
+
+
+
+llush　-a 電波
+lluch　-a 光
+
+
+
+
+ton　感謝
+lap　青
+kik　元気
+teg　金属
+bas　-e 抽象的な
+shtrrum　抽出
+dazmag 破壊
+mefin　天空
+spaq　宇宙
+phiem かわいい
+brroph 血液
+talkij 根源（primal）
+eotrav im ndau　次に示す
+eotrav im fdau　前にに示した
+tipt 例
+shretr　構成する
+koir　補助
+spekt　属性
+kutip　先端・端
+stre tedredocha 文節連結
+liffel　原則
+stre kipteima 品詞
+eurame ～のような
+mer　合った・合致する・適合する・当てはまる
+pais　放出
+bel 一覧・リスト
+harg 引数・格
+henv 環境
+qelm 理由・根拠・原因
+belm 結果・結論
+port 芋
+zu　そして
+solijo 名づける・呼ぶ
+han　すべての・あらゆる
+gemir　神秘の・魔術の・神の
+pot　エネルギー・力
+助詞なし文節：ひとまとまりで一つの句、あらゆる吸引助詞で取れる
+we この　自分側
+me その　相手側
+ge あの　三人称側
+～e chima nerira mi …　～に限って…　本来ならランダムのはずが、都合が悪いときにやたら悪いくじを引く
+rir 幸運・福音・幸福
+ge hia 彼・あいつ・奴
+vo 反応する・対応する・イベントが起きる
+vocha　イベント・開催・反応
+-oemo tu　～ればいいのに
+siem 感覚
+-oeno gu　～できるか！
+bzzar　覆う
+ie a　限定詞と名詞
+ia　不定冠詞つき名詞
+ea　全称詞つき名詞
+a　正規表現
+barm 体
+ma　も
+na　ではなく
+ja　だけ
+giem 延々と・永遠に・永久に・限りが分からないほどに巨大な
+hovet　偶数
+getrom　振動
+vetrom　波
+vetromenroneima 波長
+telnmike　幼い
+hispim　前触れ・予知・預言者・予言者・占い・凶兆・前兆
+qrin　川
+pyr　粉・粉末・ほこり
+
+fetr
+
+llumin　壁
+hytrij 周囲
+gi 自動詞を使役形の他動詞形にしたときのもともと自動詞だった部分
+
+なら
+
+giem　-o 偉ぶる
+dazkartober　-o 腐る
+byd　-o 踏む
+sint　-a 神
+hint　-o 救う・加護する・救済する・助ける
+-int　原義：神秘・神
+
+fenjum　-e 傷ついた・怪我した
+him　デバイス・機器・ロボット
+nud　次
+fud　前
+
+qym　-o 導入・インストール
+diam　最後
+travela　示されたもの・様子
+kyr　-o 使う
+
+calceNpseimi　時には・しばしば・ときどき・たまに
+felnkyroire　使えない
+siemi　なんか・みたところ
+
+knjac　猫
+
+karpa　笛
+musko　奏でる・演奏する
+
+jeule 熱い・炎の・日の
+
+meferm　口
+joferm＝jor+ferm　舌・舐める
+
+kerm　手・腕
+derm　足・脚
+berm　尻
+
+kinmel　買う
+chson　超え
+felnlixfel　変な
+euhe　代わりに
+dyn　名声・悪名・知名度・有名
+pardyn　名誉
+pardyna li meloemocha vi, tere sa li soizo.
+
+chhirum　糞・尿
+lush　光
+bietr　ベース・基礎・基盤・もと
+-ietr　概念上の位置関係に関する部首
+tharn　歯
+gop　堅い・固い・硬い・かたい
+-op　形状・物理的性質に関する部首
+-arn　顔のパーツにつく部首
+-ain　体のパーツにつく部首
+chip　糸
+pilit　外・出る
+
+fest　過去
+nest　未来
+felish　向こう・むこう・向こう側・先・その先・奥
+
+hiwenhalk　たどり着く
+　even・たとえ・でさえ
+jorio　～とする・～と言われる
+jorioe　いわゆる
+
+parimo　繁栄・栄える　neparimo　滅亡・滅びる
+renda　田舎・地方
+
+bern　頬
+kern　目
+mern　鼻
+mernojo　臭う・香る・匂う・におう
+mernoja　臭い・香り・匂い・におい
+
+dazknima　悪戯・いたずら
+
+desh　嫌・いや・嫌い
+
+parenjorijo・parjorijo・paJorijo　褒める・ほめる
+dazjorijo・daJorij　馬鹿にする・けなす
+
+parenjorijensola・paJoSola　報酬・見返り・褒賞・褒美
+
+thain　毛・髪
+
+kernenthaina・keThaina　まつ毛・睫毛
+
+-o iuranki　-ocha ranki　～程～・ほど・～くらい～
+
+joimo　近づく
+
+tym　核・コア
+tymain　心臓
+tymainiemo　ドキドキする
+
+zoka　酒
+
+kalke　点々とした
+kalkenra　所々
+kalkenchima　時々
+saldo　身に着ける・装備する・着用する・装着する
+riknavo　わかる・理解する・区別できる
