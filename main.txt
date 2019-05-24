@@ -219,8 +219,12 @@ parmag:悪いものを取り除くこと
 
 pask:性的な嗜好
   語源:pach+skar
-  a:性的嗜好、性愛
+  a:性的嗜好、性愛、性癖
   o:（性的嗜好を）愛する
+
+paskobera:性的嗜好を持つ者
+  語源:pasko+olbera
+  a:性愛者
 
 pir:汚れのないもの
   語源:pirka(アイヌ語:美しい),pure(英語:純粋な)
